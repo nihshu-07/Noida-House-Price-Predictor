@@ -42,6 +42,14 @@ This project helps users:
 
 ---
 
+## 📸 Screenshot
+
+<img width="1918" height="823" alt="image" src="https://github.com/user-attachments/assets/2ebf4bfc-e690-40de-a1a8-36bcc8310c6d" />
+
+<img width="1807" height="821" alt="image" src="https://github.com/user-attachments/assets/767695dc-692f-46a8-aba4-56e886d79d8c" />
+
+
+---
 ## 🧠 Machine Learning Workflow
 
 1. Data Cleaning & Preprocessing
